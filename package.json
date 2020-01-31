@@ -1,0 +1,28 @@
+{
+  "name": "form-validator",
+  "version": "1.0.0",
+  "description": "A basic javascript form validator",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdsmarketing/form-validator.git"
+  },
+  "keywords": [
+    "form",
+    "validator",
+    "riley",
+    "seaburg",
+    "hammersport",
+    "marketing",
+    "javascript"
+  ],
+  "author": "Riley Seaburg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdsmarketing/form-validator/issues"
+  },
+  "homepage": "https://github.com/rdsmarketing/form-validator#readme"
+}
